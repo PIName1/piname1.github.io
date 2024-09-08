@@ -6,7 +6,10 @@ header>nav{
 header{
     background-color: #fc9b5e;
     position: fixed;
-    
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: 9;
 }
 nav>a{
     padding: 5% 0%;
